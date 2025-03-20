@@ -26,7 +26,7 @@ bin/
 .vscode/
 
 ### Mac OS ###
-.DS_Store
+.DS_StoreAA
 
 ### Se agregaron estos ###
 *.ini
