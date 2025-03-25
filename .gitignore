@@ -29,5 +29,6 @@ bin/
 .DS_StoreAA
 
 ### Se agregaron estos ###
-*.ini
+*.iml
 .idea/
+*.txt
